@@ -1,0 +1,9 @@
+main:
+  - title: "publications"
+    url: /pub/
+  - title: "sdb"
+    url: http://drgmk.com/sdb
+  - title: "tools"
+    url: /tools/
+  # - title: "cv misc."
+    # url: /misc/
