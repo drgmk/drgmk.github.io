@@ -2,7 +2,7 @@ main:
   - title: "publications"
     url: /pub/
   - title: "sdb"
-    url: http://drgmk.com/sdb
+    url: https://sdb.drgmk.com
   - title: "tools"
     url: /tools/
   # - title: "cv misc."
