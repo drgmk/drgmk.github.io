@@ -10,9 +10,10 @@ permalink: /pub/
 <!-- --- -->
 
 ### 2025
-<span style="color: #ccffff;">(3/14|36/184)</span>
+<span style="color: #ccffff;">(3/16|36/186)</span>
 
-* _Resolving the large exoKuiper belt of the HD 126062 debris disc and extended gas emission in its vicinity_, Miley et al., A&A [ [arXiv](https://arxiv.org/abs/2511.07576) ]
+* _A second planetesimal collision in the Fomalhaut system_, Kalas et al., Science, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251215861K/abstract) ]
+* _Resolving the large exoKuiper belt of the HD 126062 debris disc and extended gas emission in its vicinity_, Miley et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.235M/abstract) ]
 * _JWST/NIRCam observations of HD~929245 debris disk: An asymmetric disk with a gap_, Lazzoni et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251107561L/abstract) ]
 * _Lung B cells in ectopic germinal centers undergo affinity maturation_, Guillaume et al., PNAS, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025PNAS..12216855G/abstract) ; [PubMed](https://pubmed.ncbi.nlm.nih.gov/40168127/) ]
 * _A search for transiting exocomets in TESS sectors 1-26_, Norazman et al., MNRAS, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542.1486N/abstract) ]
@@ -23,16 +24,16 @@ permalink: /pub/
 * _WISE 12 um search for exozodi candidates within 10 parsecs_, Huang et al., A&A, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.246H/abstract) ]
 * _Dust populations from 30 to 1000 au in the debris disk of HD 120326: Panchromatic view with VLT/SPHERE, ALMA, and HST/STIS_, Desgrange et al., A&A, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.183D/abstract) ]
 * _The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems. III. Aperture Masking Interferometric Observations of the Star HIP 65426 at 3.8 um_, Ray et al., ApJ, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...983L..25R/abstract) ]
-* _vis-r: Quick radial profile modelling for radio interferometric visibilities_, Kennedy, RASTI in press [ [ADS](https://ui.adsabs.harvard.edu/abs/2025RASTI...4....4D/abstract) ]
-* _Debris disks around M dwarfs: The Herschel DEBRIS survey_, Lestrade et al., MNRAS, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250204441L/abstract) ]
-* _Modelling a Transiting Circumbinary Disc in the HD98800 System_, Faruqi et al., MNRAS in press [ [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250202376F/abstract) ]
-* _REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths_, Matra et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250109058M/abstract) ; [press](https://www.tcd.ie/news_events/top-stories/featured/astrophysicists-reveal-structure-of-74-exocomet-belts-orbiting-nearby-stars-in-landmark-survey/) ]
+* _vis-r: Quick radial profile modelling for radio interferometric visibilities_, Kennedy, RASTI [ [ADS](https://ui.adsabs.harvard.edu/abs/2025RASTI...4....4D/abstract) ]
+* _Debris disks around M dwarfs: The Herschel DEBRIS survey_, Lestrade et al., MNRAS, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...694A.123L/abstract) ]
+* _Modelling a Transiting Circumbinary Disc in the HD98800 System_, Faruqi et al., MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.2516F/abstract) ]
+* _REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths_, Matra et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...693A.151M/abstract) ; [press](https://www.tcd.ie/news_events/top-stories/featured/astrophysicists-reveal-structure-of-74-exocomet-belts-orbiting-nearby-stars-in-landmark-survey/) ]
 
 ### 2024
 <span style="color: #ccffff;">(2/4|33/170)</span>
 
-* _Quantifying spectroscopic Ca II exocomet transit occurrence in two decades of HARPS data_, Bendahan-West et al., MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241213253B/abstract) ]
-* _Database of Candidate Targets for the LIFE Mission_, Menti et al., RNAAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241023892M/abstract) ]
+* _Quantifying spectroscopic Ca II exocomet transit occurrence in two decades of HARPS data_, Bendahan-West et al., MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537..229B/abstract) ]
+* _Database of Candidate Targets for the LIFE Mission_, Menti et al., RNAAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..267M/abstract) ]
 * _The characterisation of water ice in debris discs: implications for JWST scattered light observations_, Kim et al. [ [ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.1873K/abstract) ]
 * _First ALMA observations of the HD 105211 debris disc: A warm dust 
 component close to a gigayear-old star_, Yang et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A.206Y/abstract) ]
@@ -43,20 +44,20 @@ component close to a gigayear-old star_, Yang et al., A&A [ [ADS](https://ui.ads
 * _RZ Piscium Hosts a Compact and Highly Perturbed Debris Disk_, Su et al., ApJ [ [ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...959...43S/abstract) ]
 * _A planetary collision afterglow and transit of the resultant debris cloud_, Kenworthy et al., Nature [ [Nature](https://www.nature.com/articles/s41586-023-06573-9) ; [PDF](https://rdcu.be/dojZK) ; [ADS](https://ui.adsabs.harvard.edu/abs/2023Natur.622..251K/abstract) ]
 * _Planetary system architectures with low-mass inner planets. Direct imaging of mature systems coupled to radial velocity and astrometry_, Desgrange et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..64D/abstract) ]
-* _An ALMA Survey of M-dwarfs in the Beta Pictoris Moving Group with Two New Debris Disc Detections_, Cronin-Coltsmann et al. 2023, MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231015255C/abstract) ]
+* _An ALMA Survey of M-dwarfs in the Beta Pictoris Moving Group with Two New Debris Disc Detections_, Cronin-Coltsmann et al. 2023, MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.5401C/abstract) ]
 * _ALMA and Keck analysis of Fomalhaut field sources: JWST's Great Dust Cloud is a background object_, Kennedy et al., MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.2698K/abstract) ]
-* _Inner edges of planetesimal belts: collisionally eroded or truncated?_, Blanco et al., MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230412337I/abstract) ]
-* _Stirred but not shaken: a multi-wavelength view of HD 16743's debris disc_, Marshall et al., MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230317128M/abstract) ]
-* _Morphology of the gas-rich debris disk around HD 121617 with SPHERE observations in polarized light_, Perrot et al., A&A, [ [ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230207057P/abstract) ]
+* _Inner edges of planetesimal belts: collisionally eroded or truncated?_, Blanco et al., MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.6150I/abstract) ]
+* _Stirred but not shaken: a multi-wavelength view of HD 16743's debris disc_, Marshall et al., MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5940M/abstract) ]
+* _Morphology of the gas-rich debris disk around HD 121617 with SPHERE observations in polarized light_, Perrot et al., A&A, [ [ADS](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A..39P/abstract) ]
 
 ### 2022
 <span style="color: #ccffff;">(1/13|29/158)</span>
 
-* _ISPY-NACO Imaging Survey for Planets around Young stars. The demographics of forming planets embedded in protoplanetary disks_, Cugno et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv221115434C/abstract) ]
-* _The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16  um_, Carter et al., submitted [ [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220814990C/abstract)]
-* _The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems II: A 1 to 20 Micron Spectrum of the Planetary-Mass Companion VHS 1256-1257 b_, Miles et al., submitted [ [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220900620M/abstract) ]
+* _ISPY-NACO Imaging Survey for Planets around Young stars. The demographics of forming planets embedded in protoplanetary disks_, Cugno et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2023A%26A...669A.145C/abstract) ]
+* _The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16  um_, Carter et al., submitted [ [ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...951L..20C/abstract)]
+* _The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems II: A 1 to 20 Micron Spectrum of the Planetary-Mass Companion VHS 1256-1257 b_, Miles et al., submitted [ [ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...946L...6M/abstract) ]
 * _Direct Discovery of the Inner Exoplanet in the HD206893 System_, Hinkley et al., A&A, [ [ADS](https://ui.adsabs.harvard.edu/abs/2023A%26A...671L...5H/abstract) ]
-* _High resolution ALMA and HST imaging of kappa CrB: a broad debris disc around a post-main sequence star with low-mass companions_, Lovell et al., MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.2573L/abstract) ]
+* _High resolution ALMA and HST imaging of kappa CrB: a broad debris disc around a post-main sequence star with low-mass companions_, Lovell et al., MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.2546L/abstract) ]
 * _RVSPY -- Radial Velocity Survey for Planets around Young Stars. Target characterization and high-cadence survey_, Zakhozhay et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2022A%26A...667A..63Z/abstract) ]
 * _The halo around HD 32297: Micron-sized cometary dust_, Olofsson et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220607068O/abstract) ]
 * _The eclipse of the V773 Tau B circumbinary disk_, Kenworthy et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220705575K/abstract) ]
