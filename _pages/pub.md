@@ -10,8 +10,9 @@ permalink: /pub/
 <!-- --- -->
 
 ### 2025
-<span style="color: #ccffff;">(3/16|36/186)</span>
+<span style="color: #ccffff;">(3/17|36/187)</span>
 
+* _JWST/MIRI coronagraphic search for planets in systems with gapped exoKuiper belts and proper motion anomalies_, Bendahan-West et al., MNRAS in press
 * _A second planetesimal collision in the Fomalhaut system_, Kalas et al., Science, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251215861K/abstract) ]
 * _Resolving the large exoKuiper belt of the HD 126062 debris disc and extended gas emission in its vicinity_, Miley et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.235M/abstract) ]
 * _JWST/NIRCam observations of HD~929245 debris disk: An asymmetric disk with a gap_, Lazzoni et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251107561L/abstract) ]
