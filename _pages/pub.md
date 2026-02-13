@@ -9,11 +9,20 @@ permalink: /pub/
 <!-- toc_icon: "clock" -->
 <!-- --- -->
 
-### 2025
-<span style="color: #ccffff;">(3/17|36/187)</span>
+### 2026
+<span style="color: #ccffff;">(0/5|37/191)</span>
 
-* _JWST/MIRI coronagraphic search for planets in systems with gapped exoKuiper belts and proper motion anomalies_, Bendahan-West et al., MNRAS in press
-* _A second planetesimal collision in the Fomalhaut system_, Kalas et al., Science, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251215861K/abstract) ]
+* _A second planetesimal collision in the Fomalhaut system_, Kalas et al., Science [ [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251215861K/abstract) ]
+* _The ALMA survey to Resolve exoKuiper belt Substructures (ARKS): I. Motivation, sample, data reduction, and results overview_, Marino et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A.195M/abstract)]
+* _The ALMA survey to Resolve exoKuiper belt Substructures (ARKS): III. The vertical structure of debris disks_, Zawadki et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A.197Z/abstract)]
+* _The ALMA survey to Resolve exoKuiper belt Substructures (ARKS): VI. Asymmetries and offsets_, Lovell et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A.200L/abstract)]
+* _Resolving the terrestrial planet-forming region of HD 172555 with ALMA: I. Post-impact dust distribution_, Roumeliotis et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...706A...4R/abstract) ]
+
+
+### 2025
+<span style="color: #ccffff;">(3/16|37/186)</span>
+
+* _JWST/MIRI coronagraphic search for planets in systems with gapped exoKuiper belts and proper motion anomalies_, Bendahan-West et al., MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp.2129B/abstract)]
 * _Resolving the large exoKuiper belt of the HD 126062 debris disc and extended gas emission in its vicinity_, Miley et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...703A.235M/abstract) ]
 * _JWST/NIRCam observations of HD~929245 debris disk: An asymmetric disk with a gap_, Lazzoni et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251107561L/abstract) ]
 * _Lung B cells in ectopic germinal centers undergo affinity maturation_, Guillaume et al., PNAS, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025PNAS..12216855G/abstract) ; [PubMed](https://pubmed.ncbi.nlm.nih.gov/40168127/) ]
@@ -25,13 +34,13 @@ permalink: /pub/
 * _WISE 12 um search for exozodi candidates within 10 parsecs_, Huang et al., A&A, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.246H/abstract) ]
 * _Dust populations from 30 to 1000 au in the debris disk of HD 120326: Panchromatic view with VLT/SPHERE, ALMA, and HST/STIS_, Desgrange et al., A&A, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.183D/abstract) ]
 * _The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems. III. Aperture Masking Interferometric Observations of the Star HIP 65426 at 3.8 um_, Ray et al., ApJ, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...983L..25R/abstract) ]
-* _vis-r: Quick radial profile modelling for radio interferometric visibilities_, Kennedy, RASTI [ [ADS](https://ui.adsabs.harvard.edu/abs/2025RASTI...4....4D/abstract) ]
+* _vis-r: Quick radial profile modelling for radio interferometric visibilities_, Kennedy, RASTI [ [ADS](https://ui.adsabs.harvard.edu/abs/2025RASTI...4....4D/abstract) | [ascl.net](https://ascl.net/2511.022) ]
 * _Debris disks around M dwarfs: The Herschel DEBRIS survey_, Lestrade et al., MNRAS, [ [ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...694A.123L/abstract) ]
 * _Modelling a Transiting Circumbinary Disc in the HD98800 System_, Faruqi et al., MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.2516F/abstract) ]
 * _REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths_, Matra et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...693A.151M/abstract) ; [press](https://www.tcd.ie/news_events/top-stories/featured/astrophysicists-reveal-structure-of-74-exocomet-belts-orbiting-nearby-stars-in-landmark-survey/) ]
 
 ### 2024
-<span style="color: #ccffff;">(2/4|33/170)</span>
+<span style="color: #ccffff;">(2/4|34/170)</span>
 
 * _Quantifying spectroscopic Ca II exocomet transit occurrence in two decades of HARPS data_, Bendahan-West et al., MNRAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537..229B/abstract) ]
 * _Database of Candidate Targets for the LIFE Mission_, Menti et al., RNAAS [ [ADS](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..267M/abstract) ]
@@ -40,7 +49,7 @@ permalink: /pub/
 component close to a gigayear-old star_, Yang et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A.206Y/abstract) ]
 
 ### 2023
-<span style="color: #ccffff;">(2/8|31/166)</span>
+<span style="color: #ccffff;">(2/8|32/166)</span>
 
 * _RZ Piscium Hosts a Compact and Highly Perturbed Debris Disk_, Su et al., ApJ [ [ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...959...43S/abstract) ]
 * _A planetary collision afterglow and transit of the resultant debris cloud_, Kenworthy et al., Nature [ [Nature](https://www.nature.com/articles/s41586-023-06573-9) ; [PDF](https://rdcu.be/dojZK) ; [ADS](https://ui.adsabs.harvard.edu/abs/2023Natur.622..251K/abstract) ]
@@ -52,7 +61,7 @@ component close to a gigayear-old star_, Yang et al., A&A [ [ADS](https://ui.ads
 * _Morphology of the gas-rich debris disk around HD 121617 with SPHERE observations in polarized light_, Perrot et al., A&A, [ [ADS](https://ui.adsabs.harvard.edu/abs/2023A%26A...673A..39P/abstract) ]
 
 ### 2022
-<span style="color: #ccffff;">(1/13|29/158)</span>
+<span style="color: #ccffff;">(1/13|30/158)</span>
 
 * _ISPY-NACO Imaging Survey for Planets around Young stars. The demographics of forming planets embedded in protoplanetary disks_, Cugno et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2023A%26A...669A.145C/abstract) ]
 * _The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16  um_, Carter et al., submitted [ [ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...951L..20C/abstract)]
@@ -69,7 +78,7 @@ component close to a gigayear-old star_, Yang et al., A&A [ [ADS](https://ui.ads
 * _Planet populations inferred from debris discs: insights from 178 debris systems in the ISPY, LEECH and LIStEN planet-hunting surveys_, Pearce et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A.135P/abstract) ]
 
 ### 2021
-<span style="color: #ccffff;">(1/18|28/145)</span>
+<span style="color: #ccffff;">(1/18|29/145)</span>
 
 * _Highly structured inner planetary system debris around the intermediate age Sun-like star TYC 8830-410-1_, Melis et al., ApJ [ [ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...923...90M/abstract) ]
 * _Carbon monoxide gas produced by a giant impact in the inner region of a young system_, Schneidermann et al., Nature, [ [ADS](https://ui.adsabs.harvard.edu/abs/2021Natur.598..425S/abstract) ; [Nature](https://www.nature.com/articles/s41586-021-03872-x) ]
