@@ -10,8 +10,9 @@ permalink: /pub/
 <!-- --- -->
 
 ### 2026
-<span style="color: #ccffff;">(0/5|37/191)</span>
+<span style="color: #ccffff;">(0/6|37/192)</span>
 
+* _Observations of Exocomets_, Korth et al., SSRev in press [ [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260319978K/abstract) ]
 * _A second planetesimal collision in the Fomalhaut system_, Kalas et al., Science [ [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251215861K/abstract) ]
 * _The ALMA survey to Resolve exoKuiper belt Substructures (ARKS): I. Motivation, sample, data reduction, and results overview_, Marino et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A.195M/abstract)]
 * _The ALMA survey to Resolve exoKuiper belt Substructures (ARKS): III. The vertical structure of debris disks_, Zawadki et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A.197Z/abstract)]
