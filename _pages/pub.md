@@ -10,10 +10,11 @@ permalink: /pub/
 <!-- --- -->
 
 ### 2026
-<span style="color: #ccffff;">(0/6|37/192)</span>
+<span style="color: #ccffff;">(0/7|37/193)</span>
 
-* _Observations of Exocomets_, Korth et al., SSRev in press [ [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260319978K/abstract) ]
+* _Observations of Exocomets_, Korth et al., SSRev [ [ADS](https://ui.adsabs.harvard.edu/abs/2026SSRv..222...41K/abstract) ]
 * _A second planetesimal collision in the Fomalhaut system_, Kalas et al., Science [ [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251215861K/abstract) ]
+* _Transient disruption of T cell help impairs germinal center dynamics and memory responses_, Webb et al., Science Immunology, [ [PubMed](https://pubmed.ncbi.nlm.nih.gov/41576135/) ]
 * _The ALMA survey to Resolve exoKuiper belt Substructures (ARKS): I. Motivation, sample, data reduction, and results overview_, Marino et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A.195M/abstract)]
 * _The ALMA survey to Resolve exoKuiper belt Substructures (ARKS): III. The vertical structure of debris disks_, Zawadki et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A.197Z/abstract)]
 * _The ALMA survey to Resolve exoKuiper belt Substructures (ARKS): VI. Asymmetries and offsets_, Lovell et al., A&A [ [ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A.200L/abstract)]
